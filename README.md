@@ -1,1 +1,1 @@
-# SmartGov-Schoo-
+# SmartGov-School
